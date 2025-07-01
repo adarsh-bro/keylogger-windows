@@ -1,0 +1,10 @@
+# Ignore compiled binary
+*.exe
+
+# Ignore log files
+log.txt
+*.log
+
+# Ignore temporary or backup files
+*.bak
+*.tmp
