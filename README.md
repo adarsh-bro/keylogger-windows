@@ -40,3 +40,11 @@ gcc keylogger.c -o keylogger.exe -luser32 -ladvapi32
 ### 🔍 Tags
 
 `keylogger` `windows` `winapi` `c language` `keystroke logger` `startup registry` `cybersecurity` `system programming`
+
+## 📸 Screenshots
+
+🔹 **Log File Preview**  
+![Log Preview](screenshots/Screenshot_1.png)
+
+🔹 **Keylogger Running Silently**  
+![Background](screenshots/Screenshot_2.png)
